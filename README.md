@@ -6,7 +6,7 @@ CampusChain revolutionizes how campus communities manage finances, organize even
 
 ---
 
-## ðŸŽ¯ Key Features
+##  Key Features
 
 ### 1. **Milestone-Based Fundraising** 
 Create crowdfunding campaigns with goal-based fund release. Funds are locked in smart contracts and released ONLY when fundraising goals are met, ensuring accountability and trust.
@@ -42,31 +42,31 @@ Machine learning-driven reputation scoring based on on-chain activity.
 - **Historical Tracking**: Comprehensive activity dashboard
 
 ### 5. **NFT Evolution System** (Gamification)
-PokÃ©mon-style leveling system where campus participation NFTs evolve over time.
+Leveling system where campus participation NFTs evolve over time.
 
 - **XP Points**: Earn experience through platform activities
-- **Tier Progression**: Bronze â†’ Silver â†’ Gold â†’ Platinum â†’ Diamond
+- **Tier Progression**: Bronze, Silver, Gold, Platinum, Diamond
 - **Visual Evolution**: NFT artwork changes with levels
 - **Achievement Badges**: Unlock special NFTs for milestones
 
 ---
 
-## ðŸ—ï¸ Architecture
+## Architecture
 
 ### Fully Decentralized Design
 Unlike traditional platforms, CampusChain deploys **separate smart contract instances** for each campaign and event:
 
 ```
-Create Campaign â†’ Deploy New Contract â†’ Unique App ID
-Create Event â†’ Deploy New Contract â†’ Unique App ID
+Create Campaign-> Deploy New Contract-> Unique App ID
+Create Event -> Deploy New Contract -> Unique App ID
 ```
 
 **Benefits:**
-- âœ… No central point of failure
-- âœ… Each creator owns their contract
-- âœ… Permissionless participation
-- âœ… Immutable transaction history
-- âœ… Transparent fund management
+-  No central point of failure
+-  Each creator owns their contract
+-  Permissionless participation
+-  Immutable transaction history
+-  Transparent fund management
 
 ### Smart Contracts (Python/PyTeal)
 
@@ -89,7 +89,7 @@ Create Event â†’ Deploy New Contract â†’ Unique App ID
 
 ---
 
-## ðŸ› ï¸ Tech Stack
+## Tech Stack
 
 **Frontend:**
 - React 18 + TypeScript
@@ -116,7 +116,7 @@ Create Event â†’ Deploy New Contract â†’ Unique App ID
 
 ---
 
-## ðŸš€ Quick Start
+## Quick Start
 
 ### Prerequisites
 - Node.js 18+
@@ -227,7 +227,7 @@ Compiled contracts output to `smart_contracts/artifacts/`
 
 ---
 
-## ðŸ”§ Development
+##  Development
 
 ### Project Structure
 ```
